@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # web
+=======
+# alphamining
+>>>>>>> origin/master
 
 ## Project setup
 ```
